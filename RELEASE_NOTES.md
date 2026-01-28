@@ -1,37 +1,43 @@
-# Release v3.5.0: Community & Clarity
+# Release v4.0.0: The Enterprise Era
 
-> **Expanding the ecosystem with new community contributions and improved accessibility.**
+> **A massive integration of 300+ Enterprise skills, transforming Antigravity into a complete operating system for AI agents.**
 
-This release welcomes new community contributors and improves documentation accessibility with English translations for key skills.
+This release merges the best of the community with enterprise-grade capabilities, expanding our skill registry from 247 to over 550 specialized tools.
 
 ## 🚀 New Skills
 
-### [infinite-gratitude](https://github.com/sstklen/infinite-gratitude)
+This release integrates the entire catalog from the `rmyndharis/antigravity-skills` repository, adding depth in:
 
-**Multi-agent research skill**
-Parallel research execution with 10 agents, battle-tested with real case studies.
+### 🧩 [Architecture & Design](CATALOG.md#architecture)
 
-- **Added to**: Community Contributors
+- **backend-architect**: Scalable API design and microservices patterns.
+- **c4-architecture**: Comprehensive system documentation strategies.
 
-### [claude-api-cost-optimization](https://github.com/sstklen/claude-api-cost-optimization)
+### 🧪 [Data & AI](CATALOG.md#data-ai)
 
-**Cost Optimization Strategies**
-Practical strategies to save 50-90% on Claude API costs.
+- **rag-engineer**: End-to-end RAG system building.
+- **langchain-architecture**: Deployment patterns for LLM apps.
 
-- **Added to**: Community Contributors
+### 🛡️ [Security](CATALOG.md#security)
+
+- **security-auditor**: Automated code auditing patterns.
+- **cloud-pentesting**: Specialized tools for AWS/Azure security.
+
+---
 
 ## 📦 Improvements
 
-- **Localization**: Translated `daily-news-report` description to English.
-- **Registry Update**: Now tracking **256** skills.
-- **Documentation**: Synced contributors and skill counts across all docs.
+- **Unified Catalog**: A new auto-generated `CATALOG.md` replaces the static registry, ensuring documentation never drifts from reality.
+- **Legacy Cleanup**: Removed the bulky 250+ row table from `README.md` for better load times and readability.
+- **Automation**: Introduced `scripts/build-catalog.js` to automatically maintain the skill index.
+- **Documentation**: Restructured `README.md` to focus on high-level domains rather than a flat list.
 
 ## 👥 Credits
 
 A huge shoutout to our community contributors:
 
-- **@sstklen** for `infinite-gratitude` and `claude-api-cost-optimization`
-- **@rookie-ricardo** for `daily-news-report`
+- **@rmyndharis** for the massive contribution of 300+ Enterprise skills and the catalog generation logic.
+- **@sstklen** and **@rookie-ricardo** for their continued support and skill contributions.
 
 ---
 
