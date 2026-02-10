@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 714,
+  "total": 715,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -7711,6 +7711,27 @@
         "worker"
       ],
       "path": "skills/go-concurrency-patterns/SKILL.md"
+    },
+    {
+      "id": "go-playwright",
+      "name": "go-playwright",
+      "description": "Expert capability for robust, stealthy, and efficient browser automation using Playwright Go.",
+      "category": "development",
+      "tags": [
+        "go",
+        "playwright"
+      ],
+      "triggers": [
+        "go",
+        "playwright",
+        "capability",
+        "robust",
+        "stealthy",
+        "efficient",
+        "browser",
+        "automation"
+      ],
+      "path": "skills/go-playwright/SKILL.md"
     },
     {
       "id": "godot-gdscript-patterns",

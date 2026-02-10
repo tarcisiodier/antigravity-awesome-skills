@@ -2808,6 +2808,15 @@
     "source": "unknown"
   },
   {
+    "id": "go-playwright",
+    "path": "skills/go-playwright",
+    "category": "uncategorized",
+    "name": "go-playwright",
+    "description": "Expert capability for robust, stealthy, and efficient browser automation using Playwright Go.",
+    "risk": "safe",
+    "source": "https://github.com/playwright-community/playwright-go"
+  },
+  {
     "id": "godot-gdscript-patterns",
     "path": "skills/godot-gdscript-patterns",
     "category": "uncategorized",
